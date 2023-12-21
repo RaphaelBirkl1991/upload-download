@@ -1,5 +1,5 @@
-# upload download functionality
-
+# Upload/Download - functionality
+&nbsp;
 &nbsp;
 ![Bildbeschreibung](get_arrays_upload.png)
 
